@@ -1,3 +1,5 @@
 venv/
 __pycache__/
 .ipynb_checkpoints/
+task3_credit_card_fraud_detection/dataset/fraudTrain.csv
+task3_credit_card_fraud_detection/dataset/fraudTest.csv
