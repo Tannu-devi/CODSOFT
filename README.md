@@ -19,3 +19,15 @@ SMS Spam Collection Dataset
 
 ## Author
 Tannu Devi
+
+
+# Dataset
+
+The original dataset is not included in this repository because it exceeds GitHub's 100 MB file size limit.
+
+Dataset source:
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
+Files used:
+- fraudTrain.csv
+- fraudTest.csv
